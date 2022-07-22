@@ -1,8 +1,8 @@
-👋 Hi, I’m Happy Kumar, a professional web expert.
+👋 Hi viewers!
 
-I provide a premium service, and I don't cut corners and look for the easiest way to implement developing/designing needs; I look for the right way instead. I code so that design and functionality are intuitive and stable.
+Upbrighter Services being a Web Development and Designing Company, provides a premium service, and don't cut corners and look for the easiest way to implement development and designing needs. We look for the right way instead and code so that design and functionality are intuitive and stable.
 
-I have been working on eCommerce development using various platforms like:
+We have been working on eCommerce development using various platforms like:
 ★ Shopify
 ★ BigCommerce
 ★ WordPress
@@ -14,7 +14,7 @@ and have substantial experience working with Frameworks like:
 ★ Laravel
 ★ Yii 2
 
-I’m very responsible, attentive and careful to details, and focused on to best results. And I appreciate the opportunity to learn new things.
+We are very responsible, attentive and careful to details, and focused on to best results.
 
 <!---
 ubs-dev/ubs-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
